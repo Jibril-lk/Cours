@@ -8,7 +8,7 @@
 - **2023:** Baccalauréat STI2D
 
 ## Expériences professionnelles
-- **2022:** Stage chez l'Union Régionale des francas de Nouvelle Aquitaine (#),
+- **2022:** Stage chez l'Union Régionale des francas de Nouvelle Aquitaine ,
 
 ## Compétences
 - Communication digitale: Figma, suite adobe Conception de site web
