@@ -1,21 +1,21 @@
-À propos de moi
+    # Jibril Kongo
 
-Étudiant passionné en information-communication, je suis spécialisé en création de bulles et d'élaboration de savons
-Formation
+## À propos de moi
+Étudiant passionné en information-communication, je suis spécialisé en montage vidéo, et j'ai une grosse attirance envers le design
 
-    2025: DUT Information communication
-    2023: Baccalauréat STI2D
+## Formation
+- **2025:** DUT Information communication.
+- **2023:** Baccalauréat STI2D
 
-Expériences professionnelles
+## Expériences professionnelles
+- **2022:** Stage chez l'Union Régionale des francas de Nouvelle Aquitaine (#),
 
-    2024: Stage chez Nom de l'entreprise, description...
-    2024: Stage chez Nom de l'entreprise, description...
+## Compétences
+- Communication digitale: Figma, suite adobe Conception de site web
+- Rédaction web
+- Veille informationnelle
+- Conception de site web
+- Montage vidéo: after effect, premiere pro, davinci resolve
 
-Compétences
-
-    Communication digitale: Canva, suite adobe, Conception de site web
-    Veille informationnelle
-
-Contact
-
-    Email: jijikongo.09@gmail.com
+## Contact
+- Email: jijikongo.09@gmail.com
