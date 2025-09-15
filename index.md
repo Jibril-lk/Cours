@@ -1,4 +1,4 @@
-    # Jibril Kongo
+# Jibril Kongo
 
 ## À propos de moi
 Étudiant passionné en information-communication, je suis spécialisé en montage vidéo, et j'ai une grosse attirance envers le design
